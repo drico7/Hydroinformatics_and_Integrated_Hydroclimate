@@ -19,7 +19,7 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 * Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular w/Makefile & Driver<br/>
 * Version(s):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1g,&nbsp;1.2.1m<br/>
 * Platform:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux/Terminal<br/>
-* Num Functions:&nbsp;&nbsp;10<br/>
+* Num Functions:&nbsp;&nbsp;6<br/>
 * Lines of Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3500<br/>
 
 **HydroPET**<br/>
@@ -29,5 +29,5 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 * Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular w/Makefile & Driver<br/>
 * Version(s):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1,&nbsp;1.1,&nbsp;1.2,&nbsp;1.2.1,&nbsp;2.0<br/>
 * Platform:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux/Terminal<br/>
-* Num Functions:&nbsp;&nbsp;10<br/>
+* Num Functions:&nbsp;&nbsp;8<br/>
 * Lines of Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000<br/>
