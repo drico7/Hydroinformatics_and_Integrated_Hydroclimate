@@ -17,7 +17,7 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 * Description:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Version 1,2,3 are available from command line interface.<br/>
 * Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C<br/>
 * Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular w/Makefile & Driver<br/>
-* Version(s):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1g,&nbsp;1.2.1m<br/>
+* Version(s):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1g,&nbsp;1.2.1m,&nbsp;2.0.1<br/>
 * Platform:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux<br/>
 * Num Functions:&nbsp;&nbsp;6<br/>
 * Lines of Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3500<br/>
