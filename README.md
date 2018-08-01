@@ -2,8 +2,8 @@
 Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 
 
-Alt-Superior Data Base<br/>
-------
+Superior Data Base<br/>
+-
 
 
 
