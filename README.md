@@ -6,9 +6,9 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 
 * Description:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blah<br/>
 * Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python<br/>
-* Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular<br/>
+* Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular<br/>
 * Num Functions:&nbsp;&nbsp;10<br/>
-* Lines of Code:&nbsp;&nbsp;&nbsp;1000<br/>
+* Lines of Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1000<br/>
 
 **VIC Complete Simulator**<br/> 
 
