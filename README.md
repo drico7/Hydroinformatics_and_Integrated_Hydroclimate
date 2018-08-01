@@ -2,6 +2,6 @@
 Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 
 
-Superior Data Base<\b>
-VIC Forecast/Overall?<\b> 
-HydroPET<\b>
+Superior Data Base<br/>
+VIC Forecast/Overall?<br/> 
+HydroPET<br/>
