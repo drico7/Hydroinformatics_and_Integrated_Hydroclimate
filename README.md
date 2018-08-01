@@ -4,11 +4,11 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 
 **Superior Data Base**<br/>
 
-* <br/>
-* <br/>
-* <br/>
-* <br/>
-* <br/>
+* Description: <br/>
+* Language: Python<br/>
+* Style: Modular<br/>
+* Num Functions: 10<br/>
+* Lines of Code: <br/>
 
 **VIC Complete Simulator**<br/> 
 
