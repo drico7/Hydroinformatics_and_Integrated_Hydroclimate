@@ -12,11 +12,11 @@ Developers: Daniel Rico, Alejandro Herrera, Donaldo Osornio, Alessandro Amaranto
 
 **VIC Complete Simulator**<br/> 
 
-* Description:   blah<br/>
-* Language:      C<br/>
-* Style:         Modular<br/>
-* Num Functions: 10<br/>
-* Lines of Code: 3500<br/>
+* Description:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blah<br/>
+* Language:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;C<br/>
+* Style:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modular<br/>
+* Num Functions:&nbsp;&nbsp;10<br/>
+* Lines of Code:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3500<br/>
 
 **HydroPET**<br/>
 
